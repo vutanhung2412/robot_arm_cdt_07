@@ -1,0 +1,525 @@
+
+
+
+          SolidWorks Corporation - STEP Processor Error Log
+          ______________________________________________________
+
+                       STEP Post Processor
+                       ___________________
+
+
+STEP File Name: C:\Users\Hung\Downloads\community_robot_arm-master\CAD Files\robot_arm.step
+
+
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.XLTR: Circuit sanity failure
+WARNING: Surface problem...Trimmed surface constructor could not converge to solution.
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 180, high: 135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 315, high: 292.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 225, high: 225
+Bad Curve, low: -225, high: -225
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 360, high: 315
+Reversing curve, low: 225, high: 202.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 135, high: 112.5
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 45, high: 45
+Bad Curve, low: -45, high: -45
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 45, high: 45
+Bad Curve, low: -45, high: -45
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 225, high: 225
+Bad Curve, low: -225, high: -225
+Reversing curve, low: 180, high: 135
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 360, high: 315
+Reversing curve, low: 135, high: 112.5
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 225, high: 202.5
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 315, high: 292.5
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 180, high: 135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 315, high: 292.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 225, high: 225
+Bad Curve, low: -225, high: -225
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 360, high: 315
+Reversing curve, low: 225, high: 202.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 135, high: 112.5
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 45, high: 45
+Bad Curve, low: -45, high: -45
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 45, high: 45
+Bad Curve, low: -45, high: -45
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 225, high: 225
+Bad Curve, low: -225, high: -225
+Reversing curve, low: 180, high: 135
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 360, high: 315
+Reversing curve, low: 135, high: 112.5
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 225, high: 202.5
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 315, high: 292.5
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Trimmed surface constructor could not converge to solution.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 180, high: 135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 315, high: 292.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 225, high: 225
+Bad Curve, low: -225, high: -225
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 360, high: 315
+Reversing curve, low: 225, high: 202.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 135, high: 112.5
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 45, high: 45
+Bad Curve, low: -45, high: -45
+Reversing curve, low: 135, high: 135
+Bad Curve, low: -135, high: -135
+Reversing curve, low: 90, high: 90
+Bad Curve, low: -90, high: -90
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 315, high: 315
+Bad Curve, low: -315, high: -315
+Reversing curve, low: 270, high: 270
+Bad Curve, low: -270, high: -270
+Reversing curve, low: 45, high: 45
+Bad Curve, low: -45, high: -45
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 225, high: 225
+Bad Curve, low: -225, high: -225
+Reversing curve, low: 180, high: 135
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 360, high: 315
+Reversing curve, low: 135, high: 112.5
+Reversing curve, low: 22.5, high: 22.5
+Bad Curve, low: -22.5, high: -22.5
+Reversing curve, low: 225, high: 202.5
+Reversing curve, low: 360, high: 360
+Bad Curve, low: -360, high: -360
+Reversing curve, low: 315, high: 292.5
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Vertices touch.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Trimmed surface constructor could not converge to solution.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.XLTR: Circuit sanity failure
+WARNING: Surface problem...Trimmed surface constructor could not converge to solution.
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.XLTR: Circuit sanity failure
+WARNING: Surface problem...Trimmed surface constructor could not converge to solution.
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+XLTR: Circuit sanity failure
+XLTR: Circuit sanity failure
+WARNING: Surface problem...Loops of curves have inconsistent directions.
+Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.Surfaces successfully processed into a solid body.
+STEP-in completed.
